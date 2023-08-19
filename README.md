@@ -10,3 +10,6 @@ Repositório para armazenar resumos sobre Git e GitHub do Curso Versionamento de
 
 ## Resumo das Aulas
 
+- Aula 1
+- Aula 2
+
