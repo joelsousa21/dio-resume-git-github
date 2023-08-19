@@ -8,4 +8,5 @@ Repositório para armazenar resumos sobre Git e GitHub do Curso Versionamento de
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
 
+## Resumo das Aulas
 
